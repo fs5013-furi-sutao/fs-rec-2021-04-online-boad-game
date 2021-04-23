@@ -150,7 +150,7 @@
     <tr>
         <td>15:40 ～</td>
         <td>10分</td>
-        <td>ゲーム③（ラブレター）のやり方説明</td>
+        <td>ゲーム③（お邪魔者）のやり方説明</td>
         <td>奥原が説明します（<a href="https://youtu.be/jznUgt85YPc">動画</a> を元に）</td>
     </tr>
     <tr>
