@@ -293,20 +293,20 @@
 
 <br />
 
-# 🧩🎲 今回トライするゲーム② ソロ（Solo）
+# 🧩🎲 今回トライするゲーム② スカル(Skull)
 
 <img src="./coup-banner.jpg" width="240">
 
 > ## ゲーム説明動画
 > 
-> [![](http://img.youtube.com/vi/kqQRgQNVX-I/0.jpg)](https://youtu.be/kqQRgQNVX-I)  
-> UNOの進化版！？ソロ（SOLO）のルール解説！（1分37秒）：  
-> https://youtu.be/kqQRgQNVX-I
+> [![](http://img.youtube.com/vi/kqQRgQNVX-I/0.jpg)](https://youtu.be/3oHEVjG8lTg)  
+> 【ボードゲーム】スカル（髑髏と薔薇）　ふんわり遊び方動画（2分16秒）：  
+> https://youtu.be/3oHEVjG8lTg
 
 > ## ルール説明書
 > 
-> ソロ（Solo） 遊び方説明書：  
-> [https://w.atwiki.jp/bga9997/pages/114.html](https://w.atwiki.jp/bga9997/pages/114.html)
+> スカル(Skull) 遊び方説明書：  
+> [https://www.tk-game-diary.net/skull_roses/skull_roses.html](https://www.tk-game-diary.net/skull_roses/skull_roses.html)
 
 <br />
 
