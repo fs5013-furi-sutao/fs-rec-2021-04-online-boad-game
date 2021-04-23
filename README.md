@@ -89,7 +89,7 @@
 ### 本日は、次の 3 つのゲームをプレイします！
 
 - ゲーム① [ニムト（6 nimmt!）](https://ja.boardgamearena.com/gamepanel?game=sechsnimmt)
-- ゲーム② [ソロ（Solo）](https://ja.boardgamearena.com/gamepanel?game=solo)
+- ゲーム② [スカル(Skull)](https://ja.boardgamearena.com/gamepanel?game=skull)
 - ゲーム③ [お邪魔者(Saboteur)](https://ja.boardgamearena.com/gamepanel?game=saboteur)
 
 <br />
@@ -119,25 +119,25 @@
 
 <br />
     
-## 🕢 ゲーム② ソロ（Solo）
+## 🕢 ゲーム② スカル(Skull)
  
  <table>
     <tr>
         <td>15:05 ～</td>
         <td>10分</td>
-        <td>ゲーム②（ソロ）のやり方説明</td>
-        <td>奥原が説明します（<a href="https://youtu.be/kqQRgQNVX-I">動画</a> を元に）</td>
+        <td>ゲーム②（スカル）のやり方説明</td>
+        <td>奥原が説明します（<a href="https://youtu.be/3oHEVjG8lTg">動画</a> を元に）</td>
     </tr>
     <tr>
         <td>15:15 ～</td>
         <td>10分</td>
-        <td>ゲーム②（ソロ）のやり方 Q&amp;A</td>
+        <td>ゲーム②（スカル）のやり方 Q&amp;A</td>
         <td>奥原が答えます</td>
     </tr>
     <tr>
         <td>15:25 ～</td>
         <td>15分</td>
-        <td>各グループでソロにトライ！</td>
+        <td>各グループでスカルにトライ！</td>
         <td>手慣らしです。時間になったらバッサリ終了します</td>
     </tr>
 </table>
