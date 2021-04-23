@@ -299,7 +299,7 @@
 
 > ## ゲーム説明動画
 > 
-> [![](http://img.youtube.com/vi/kqQRgQNVX-I/0.jpg)](https://youtu.be/3oHEVjG8lTg)  
+> [![](http://img.youtube.com/vi/3oHEVjG8lTg/hqdefault.jpg)](https://youtu.be/3oHEVjG8lTg)  
 > 【ボードゲーム】スカル（髑髏と薔薇）　ふんわり遊び方動画（2分16秒）：  
 > https://youtu.be/3oHEVjG8lTg
 
