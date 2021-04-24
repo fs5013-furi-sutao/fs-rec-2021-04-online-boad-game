@@ -103,13 +103,13 @@
         <td>14:30 ～</td>
         <td>10分</td>
         <td>ゲーム①（ニムト）のやり方説明</td>
-        <td>奥原が説明します（<a href="https://youtu.be/KuxTF5JQKJc">動画</a> を元に）</td>
+        <td>近藤が説明します（<a href="https://youtu.be/KuxTF5JQKJc">動画</a> を元に）</td>
     </tr>
     <tr>
         <td>14:40 ～</td>
         <td>10分</td>
         <td>ゲーム①（ニムト）のやり方 Q&amp;A</td>
-        <td>奥原が答えます</td>
+        <td>近藤が答えます</td>
     </tr>
     <tr>
         <td>14:50 ～</td>
@@ -128,13 +128,13 @@
         <td>15:05 ～</td>
         <td>10分</td>
         <td>ゲーム②（スカル）のやり方説明</td>
-        <td>奥原が説明します（<a href="https://youtu.be/3oHEVjG8lTg">動画</a> を元に）</td>
+        <td>近藤が説明します（<a href="https://youtu.be/3oHEVjG8lTg">動画</a> を元に）</td>
     </tr>
     <tr>
         <td>15:15 ～</td>
         <td>10分</td>
         <td>ゲーム②（スカル）のやり方 Q&amp;A</td>
-        <td>奥原が答えます</td>
+        <td>近藤が答えます</td>
     </tr>
     <tr>
         <td>15:25 ～</td>
@@ -153,13 +153,13 @@
         <td>15:40 ～</td>
         <td>10分</td>
         <td>ゲーム③（お邪魔者）のやり方説明</td>
-        <td>奥原が説明します（<a href="https://youtu.be/jznUgt85YPc">動画</a> を元に）</td>
+        <td>近藤が説明します（<a href="https://youtu.be/jznUgt85YPc">動画</a> を元に）</td>
     </tr>
     <tr>
         <td>15:50 ～</td>
         <td>10分</td>
         <td>ゲーム③（お邪魔者）のやり方 Q&amp;A</td>
-        <td>奥原が答えます</td>
+        <td>近藤が答えます</td>
     </tr>
     <tr>
         <td>16:00 ～</td>
